@@ -4,9 +4,9 @@ ECE-GY 6463 Advanced Hardware Design, Fall 2026
 
 ## 1. Project Team
 
-- _Member 1 Warren Xia (wx2352)
-- _Member 2 Yingrui Wei (yw9286)
-- _Member 3 Chuhan Xue (cx2446)
+- Warren Xia (wx2352)
+- Yingrui Wei (yw9286)
+- Chuhan Xue (cx2446)
 
 ## 2. IP Definition
 
